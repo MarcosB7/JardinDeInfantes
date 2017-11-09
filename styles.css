@@ -1,0 +1,25 @@
+body {
+    background: #5db0b7;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navegacion {
+    background-color: white;
+}
+
+#lateral, #contenido{
+  min-height:300px;
+}
+
+#contenido {
+    background: #a2a6a6;
+}
+
+#lateral {
+    background: #d9d9d9;
+}
+
+#pie {
+    color: white;
+    background: black;
+}
